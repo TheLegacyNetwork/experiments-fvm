@@ -1,10 +1,10 @@
 ![Welcome to the Legacy Github](https://raw.githubusercontent.com/TheLegacyNetwork/.github/main/profile/legacy-github-splash.png)
 
-## Welcome to LEGACY'S FVM Demo
+## Welcome to LEGACY'S Experimental Repository
 
 ### Welcome! 👋
 
-This is the testing ground for LEGACY's FVM work in progress.
+This is the testing ground for LEGACY, such as experimental FVM work in progress.
 
 For the LEGACY Network code of conduct, see:
 
