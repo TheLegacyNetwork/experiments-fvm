@@ -6,7 +6,7 @@
 
 This is the testing ground for LEGACY's FVM work in progress.
 
-To see an overview of all of LEGACY's repositories, stack and architecture, or other supporting documentation, see:
+For the LEGACY Network code of conduct, see:
 
 - [Code of Conduct](https://github.com/TheLegacyNetwork/.github/blob/main/CODE_OF_CONDUCT.md)
 
