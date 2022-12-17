@@ -15,4 +15,4 @@ For help and support see our community discussions forum
 
 ---
 
-<sub>Note: This is the public organisation profile for Legacy.</sub>
+<sub></sub>
